@@ -1,0 +1,13 @@
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Spaceman\obj\Debug\netcoreapp3.1\Spaceman.csprojAssemblyReference.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Spaceman\obj\Debug\netcoreapp3.1\Spaceman.AssemblyInfoInputs.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Spaceman\obj\Debug\netcoreapp3.1\Spaceman.AssemblyInfo.cs
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Spaceman\obj\Debug\netcoreapp3.1\Spaceman.csproj.CoreCompileInputs.cache
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Spaceman\bin\Debug\netcoreapp3.1\Spaceman.exe
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Spaceman\bin\Debug\netcoreapp3.1\Spaceman.deps.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Spaceman\bin\Debug\netcoreapp3.1\Spaceman.runtimeconfig.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Spaceman\bin\Debug\netcoreapp3.1\Spaceman.runtimeconfig.dev.json
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Spaceman\bin\Debug\netcoreapp3.1\Spaceman.dll
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Spaceman\bin\Debug\netcoreapp3.1\Spaceman.pdb
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Spaceman\obj\Debug\netcoreapp3.1\Spaceman.dll
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Spaceman\obj\Debug\netcoreapp3.1\Spaceman.pdb
+C:\Users\jo_ha\OneDrive\Bureaublad\CodeProjects\C#\Spaceman\obj\Debug\netcoreapp3.1\Spaceman.genruntimeconfig.cache

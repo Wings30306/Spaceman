@@ -2,6 +2,37 @@ using System;
 
 namespace Spaceman
 {
+    class Game
+    {
+        public static void Greeting()
+        {
+            Console.WriteLine("Oh hello there, I'm the Doctor. " +
+                "You must be the cryptanalyst from UNIT. \n" +
+                "You're just in time, the Cybermen have created a tractor beam to beam up humans to convert,\n" +
+                "and we need to break the code to disable the beam. Can you do it?");
+        }
+
+        string codeword;
+        string currentWord;
+        int maxWrongGuesses;
+        int currentWrongGuesses;
+        string[] codewords = new string[] { "Torchwood", "Gallifrey", "Dalek", "River", "Cyberman", "TARDIS" };
+        Ufo spaceship = new Ufo();
+        
+        Game()
+        {
+            Random rnd = new Random();
+            int wordIndex = rnd.Next(codewords.Length);
+            codeword = codewords[wordIndex];
+            maxWrongGuesses = 5;
+            currentWrongGuesses = 0;
+            foreach (char c in codeword)
+            {
+                currentWord += "_";
+            }
+        }
+    }
+
     
 
 
